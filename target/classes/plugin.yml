@@ -1,0 +1,12 @@
+name: AutoBroadcast
+version: 1.0
+main: com.funeralmoondevelopment.autobroadcast.AutoBroadcast
+api-version: 1.13
+authors: [DxRKENEDSKY]
+description: Time broadcasts!
+
+commands:
+  autobr:
+    usage: /autobr [args]
+    description: Test the message sending capabilities of the plugin
+
